@@ -1,0 +1,115 @@
+@font-face {
+  font-family: "billabong";
+  src: url("//db.onlinewebfonts.com/t/6d32b8e06f40fb7698cfb714b9e7975d.eot");
+  src: url("//db.onlinewebfonts.com/t/6d32b8e06f40fb7698cfb714b9e7975d.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/6d32b8e06f40fb7698cfb714b9e7975d.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/6d32b8e06f40fb7698cfb714b9e7975d.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/6d32b8e06f40fb7698cfb714b9e7975d.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/6d32b8e06f40fb7698cfb714b9e7975d.svg#BillabongW00-Regular")
+      format("svg");
+}
+.logo-0 {
+  font-family: "billabong";
+  letter-spacing: 1px;
+
+  font-size: 1.5rem !important;
+}
+.sentence {
+  font-size: 8px !important;
+  padding-left: 3.5rem;
+  color: brown;
+}
+.img {
+  width: 100%;
+  height: 500px;
+}
+h1 {
+  font-size: 2rem !important;
+}
+
+.logo-1 {
+  font-family: "billabong";
+  font-weight: 200;
+  color: black !important;
+  letter-spacing: 1px;
+  font-size: 1.2rem !important;
+  padding-left: 2rem !important;
+}
+.nav1 {
+  background-color: rgb(255, 195, 117);
+}
+a:link {
+  text-decoration: none;
+}
+.jumbo {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  background-color: rgb(255, 195, 117) !important;
+}
+.sign {
+  text-align: center;
+}
+.card {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  background-color: rgb(255, 10, 10) !important ;
+}
+.card_title {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.card_btn {
+  margin-left: 30%;
+  height: 20%;
+  width: 40%;
+  background-color: rgb(255, 10, 10) !important ;
+}
+.card_text {
+  text-align: center;
+  margin-top: 2rem;
+}
+.card_2 {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  background-color: rgb(68, 35, 82) !important ;
+}
+.card_btn_2 {
+  margin-left: 30%;
+  height: 20%;
+  width: 40%;
+  background-color: rgb(68, 35, 82) !important ;
+}
+.card_3 {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  background-color: rgb(24, 245, 42) !important ;
+}
+.card_btn_3 {
+  margin-left: 30%;
+  height: 20%;
+  width: 40%;
+  background-color: rgb(24, 245, 42) !important ;
+}
+.footer {
+  margin-top: 16rem;
+  background-color: rgb(255, 195, 117) !important;
+  font-family: "billabong";
+}
+.fa-facebook {
+  color: #3b5998;
+  margin-right: 1rem;
+}
+.fa-twitter {
+  color: #00aced;
+  margin-right: 1rem;
+}
+.fa-envelope {
+  color: #f72222;
+  margin-right: 1rem;
+}
