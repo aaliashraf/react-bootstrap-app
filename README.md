@@ -1,5 +1,5 @@
 <h1>react-bootstrap-app</h1>
-<p>A simple movie site app named **Orange Flick** built with react.js and bootstrap.</p>
+<p>A simple movie site app named ***Orange Flick*** built with react.js and bootstrap.</p>
 <h3>Preview</h3>
 ![](/images/screenshort 1.png)
 ![](/images/screenshort 2.png)
